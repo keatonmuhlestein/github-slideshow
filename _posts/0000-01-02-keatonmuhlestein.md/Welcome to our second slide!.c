@@ -24,7 +24,7 @@
 // Main Function
 int main()
 {
-    printf("Use the left arrow to go back!\n");
+    printf("Use the right arrow to go back!\n");
 
     return 0;
 }
